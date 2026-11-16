@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Jamu Kunyit Asam">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6c445"/><stop offset="1" stop-color="#c98a12"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#g)"/>
+<path d="M370 100 h60 v60 q60 30 60 90 v210 q0 20 -20 20 h-140 q-20 0 -20 -20 v-210 q0 -60 60 -90z" fill="#fff" opacity=".9"/><path d="M322 260 h156 v200 q0 14 -14 14 h-128 q-14 0 -14 -14z" fill="#f0a81c"/><rect x="365" y="80" width="70" height="30" rx="6" fill="#3b5d2a"/><rect x="335" y="320" width="130" height="70" rx="8" fill="#fff"/><text x="400" y="364" text-anchor="middle" font-family="Segoe UI,Arial" font-size="22" font-weight="700" fill="#3b5d2a">KUNYIT</text>
+<rect x="0" y="500" width="800" height="100" fill="#000" opacity=".28"/>
+<text x="40" y="545" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#fff">Jamu Kunyit Asam</text>
+<text x="40" y="580" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" fill="#fff" opacity=".85">Sukoharjo</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Tas Anyaman Rotan">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e9d3a9"/><stop offset="1" stop-color="#b98d52"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#g)"/>
+<circle cx="400" cy="300" r="170" fill="#c9a26b"/><circle cx="400" cy="300" r="20" fill="none" stroke="#8e6a3c" stroke-width="7"/><circle cx="400" cy="300" r="38" fill="none" stroke="#8e6a3c" stroke-width="7"/><circle cx="400" cy="300" r="56" fill="none" stroke="#8e6a3c" stroke-width="7"/><circle cx="400" cy="300" r="74" fill="none" stroke="#8e6a3c" stroke-width="7"/><circle cx="400" cy="300" r="92" fill="none" stroke="#8e6a3c" stroke-width="7"/><circle cx="400" cy="300" r="110" fill="none" stroke="#8e6a3c" stroke-width="7"/><circle cx="400" cy="300" r="128" fill="none" stroke="#8e6a3c" stroke-width="7"/><circle cx="400" cy="300" r="146" fill="none" stroke="#8e6a3c" stroke-width="7"/><circle cx="400" cy="300" r="164" fill="none" stroke="#8e6a3c" stroke-width="7"/><path d="M290 160 q110 -120 220 0" stroke="#5c3d1c" stroke-width="16" fill="none"/>
+<rect x="0" y="500" width="800" height="100" fill="#000" opacity=".28"/>
+<text x="40" y="545" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#fff">Tas Anyaman Rotan</text>
+<text x="40" y="580" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" fill="#fff" opacity=".85">Bali</text>
+</svg>
